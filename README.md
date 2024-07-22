@@ -94,16 +94,11 @@ Automate the essential functionalities of YouTube as a social media platform to 
 ### IDE:
 - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### Languages && FrameWorks:
-
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-
-- ![Static Badge](https://img.shields.io/badge/PHP-black?style=plastic&logo=php&logoColor=black&color=%23777BB4)
-
-- ![Static Badge](https://img.shields.io/badge/Tailwind-black?style=plastic&logo=tailwind%20css&color=%2306B6D4)
-
-- ![Static Badge](https://img.shields.io/badge/JQUERY-black?style=plastic&logo=tailwind%20css&color=%230769AD)
-
+### TOOLS & TECHNOLOGIES:
+  
+- ![PYTHON](https://img.shields.io/badge/-PYTHON-brightgreen?style=flat-square&logo=PYTHON&logoColor=%233776AB&labelColor=GREEN&color=GREEN)
+  
+- ![SELENIUM](https://img.shields.io/badge/selenium-dark?style=flat-square&logo=SELENIUM&logoColor=%2343B02A&labelColor=black&color=black)
 
 ### Version Control :
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
